@@ -1,4 +1,4 @@
-# Lee's ShitHeads Prohibited Licence (loosely based on the BSD simplified licence)
+# Lee's Shitheads Prohibited Licence (loosely based on the BSD simplified licence)
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -8,7 +8,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-3. You are not a member of law enforcement, signals intelligence, or any part of government conducting surveillance against it's citizens.
+3. You are not a member of law enforcement, and you do not work for any government or private organization that conducts or aids surveillance (e.g., signals intelligence, Palantir).
 
 4. You are not associated with any groups which are aligned with Racist, Homophobic, Transphobic, TERF, Mysogynistic, "Pro Life" (anti-womens-choice), or other shithead values.
 
